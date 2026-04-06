@@ -1,6 +1,6 @@
 # Byzantine Vernacular Greek Corpus
 
-A compiled corpus of vernacular Byzantine Greek texts (12th-17th century) for computational linguistics, NLP, and frequency analysis. Designed to complement existing Ancient Greek corpora (GLAUx, Diorisis) and Modern Greek frequency data (FrequencyWords) by filling the gap for the vernacular/demotic register of Byzantine and early modern Greek.
+A compiled corpus of vernacular Byzantine Greek texts (12th-17th century) for computational linguistics, NLP, and frequency analysis. This corpus covers the **vernacular/demotic register** of Byzantine Greek - the language of romances, chronicles, beast fables, and Cretan literature. It complements the [Patrologia Graeca corpus](https://zenodo.org/records/15780625) (6M tokens of literary/ecclesiastical Byzantine Greek from the Church Fathers), existing Ancient Greek corpora (GLAUx, Diorisis), and Modern Greek frequency data (FrequencyWords).
 
 ## Corpus contents
 
@@ -171,7 +171,10 @@ Full source URLs and per-text metadata are in `texts/manifest.json`.
 
 The scripts and compilation in this repository are released under the [MIT License](LICENSE). The individual source texts retain their own public domain / CC BY-SA status.
 
-## Related projects
+## Related projects and corpora
 
-- [dilemma](https://github.com/ciscoriordan/dilemma) - A Greek lemmatizer supporting Ancient, Byzantine, and Modern Greek. This corpus provides Byzantine vernacular training data for dilemma's frequency tables.
-- [lemma](https://github.com/ciscoriordan/lemma) - A Greek-English dictionary and vocabulary builder for Kindle, covering Ancient through Modern Greek.
+- [dilemma](https://github.com/ciscoriordan/dilemma) - A Greek lemmatizer supporting Ancient, Byzantine, and Modern Greek. This corpus provides Byzantine vernacular frequency data for dilemma's `rank_forms.py` pipeline.
+- [lemma](https://github.com/ciscoriordan/lemma) - A Greek Kindle dictionary generator using dilemma for inflection data.
+- [Patrologia Graeca corpus](https://zenodo.org/records/15780625) (Calfa/UCLouvain) - 6M tokens of literary/ecclesiastical Byzantine Greek (Church Fathers, PG071-PG158), OCR'd and lemmatized. Covers the formal, Atticizing register that this corpus does not. Together, the two corpora span both registers of Byzantine Greek: literary/ecclesiastical (PG) and vernacular/demotic (this corpus).
+- [GLAUx](https://github.com/alekkeersmaekers/glaux) - 17M tokens of Ancient Greek (Classical through late antique).
+- [Diorisis](https://figshare.com/articles/dataset/The_Diorisis_Ancient_Greek_Corpus/6187256) - 10M tokens, Homer through 5th century AD.
