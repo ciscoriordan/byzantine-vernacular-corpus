@@ -4,7 +4,7 @@ A compiled corpus of vernacular Byzantine Greek texts (12th-17th century) for co
 
 ## Corpus contents
 
-The corpus currently contains **~186,000 words** across 12 texts (11 distinct works, with two editions of the Apokopos) spanning the 12th-17th centuries.
+The corpus currently contains **~191,000 words** across 12 texts (11 distinct works, with two editions of the Apokopos) spanning the 12th-17th centuries.
 
 | Title | Greek title | Author | Date | Words | Source | License |
 |-------|------------|--------|------|------:|--------|---------|
@@ -21,7 +21,7 @@ The corpus currently contains **~186,000 words** across 12 texts (11 distinct wo
 | Apokopos (Wagner 1874 edition) | Απόκοπος του Μπεργαδή | Bergadis | 15th c. | 4,948 | [el.wikisource.org](https://el.wikisource.org/wiki/%CE%91%CF%80%CF%8C%CE%BA%CE%BF%CF%80%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%9C%CF%80%CE%B5%CF%81%CE%B3%CE%B1%CE%B4%CE%AE) | Public domain / CC BY-SA 3.0 |
 | Erotokritos | Ερωτόκριτος | Vitsentzos Kornaros | c. 1600-1610 | 85,872 | [el.wikisource.org](https://el.wikisource.org/wiki/%CE%95%CF%81%CF%89%CF%84%CF%8C%CE%BA%CF%81%CE%B9%CF%84%CE%BF%CF%82/%CE%91) | Public domain / CC BY-SA 3.0 |
 
-**Total: ~186,000 words, ~26,000 unique forms.**
+**Total: ~191,000 words, ~27,000 unique forms.**
 
 ### Text descriptions
 
@@ -112,6 +112,18 @@ This produces:
 - `texts/corpus_stats.json` - word counts per text and top-500 frequency list
 - `texts/frequencies.tsv` - full word frequency list (with `--freq`)
 
+### Export frequency JSON for dilemma
+
+```bash
+# Write byz_vern_freq.json to ../dilemma/data/
+python scripts/export_freq_json.py --dilemma
+
+# Or write to a custom path
+python scripts/export_freq_json.py -o /path/to/output.json
+```
+
+The output format is compatible with [dilemma](https://github.com/ciscoriordan/dilemma)'s `rank_forms.py` frequency loader.
+
 ### Frequency output format
 
 The `frequencies.tsv` file contains tab-separated word/count pairs, sorted by descending frequency:
@@ -138,6 +150,7 @@ scripts/            Fetch and build scripts
   fetch_wikisource.py        Download texts from el.wikisource.org
   fetch_chronicle_moreas.py  Download Chronicle of Moreas from kastra.eu
   build_corpus.py            Combine texts into corpus with frequency analysis
+  export_freq_json.py        Export frequencies as JSON for dilemma
 ```
 
 ## Notes on orthography

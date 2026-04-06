@@ -32,6 +32,7 @@ CORPUS_FILES = [
     "porikologos.txt",
     "peri_gerontos.txt",
     "apokopos.txt",
+    "apokopos_bergadi.txt",
     "erotokritos.txt",
 ]
 
