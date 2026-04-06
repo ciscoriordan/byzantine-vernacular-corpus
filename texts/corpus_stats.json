@@ -23,7 +23,7 @@
     },
     {
       "file": "chronikon_tou_moreos.txt",
-      "title": "chronikon_tou_moreos.txt",
+      "title": "Chronicle of Moreas",
       "words": 73348,
       "lines": 9236,
       "chars": 444083
@@ -81,8 +81,8 @@
   "total_words": 185792,
   "total_chars": 1112978,
   "total_lines": 22883,
-  "vocabulary_size": 26222,
-  "token_count": 185787,
+  "vocabulary_size": 26223,
+  "token_count": 185789,
   "top_500": [
     {
       "word": "και",
