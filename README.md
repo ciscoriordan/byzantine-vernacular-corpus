@@ -1,6 +1,6 @@
 # Byzantine Vernacular Greek Corpus
 
-A compiled corpus of vernacular Byzantine Greek texts (12th-17th century) for computational linguistics, NLP, and frequency analysis. This corpus covers the **vernacular/demotic register** of Byzantine Greek - the language of romances, chronicles, beast fables, and Cretan literature. It complements the [Patrologia Graeca corpus](https://zenodo.org/records/15780625) (6M tokens of literary/ecclesiastical Byzantine Greek from the Church Fathers), existing Ancient Greek corpora (GLAUx, Diorisis), and Modern Greek frequency data (FrequencyWords).
+A compiled corpus of vernacular Byzantine Greek texts (12th-17th century) for computational linguistics, NLP, and frequency analysis. This corpus covers the **vernacular/demotic register** of Byzantine Greek - the language of romances, chronicles, beast fables, and Cretan literature. It complements the [Patrologia Graeca corpus](https://zenodo.org/records/15780625) (6M tokens of literary/ecclesiastical Byzantine Greek from the Church Fathers), existing Ancient Greek corpora ([GLAUx](https://github.com/alekkeersmaekers/glaux), [Diorisis](https://figshare.com/articles/dataset/The_Diorisis_Ancient_Greek_Corpus/6187256)), and Modern Greek frequency data ([FrequencyWords](https://github.com/hermitdave/FrequencyWords)).
 
 ## Corpus contents
 
