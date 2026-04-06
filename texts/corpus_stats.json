@@ -1,0 +1,2088 @@
+{
+  "files": [
+    {
+      "file": "digenes_akritas_escorial.txt",
+      "title": "Digenes Akritas (Escorial manuscript, excerpt)",
+      "words": 803,
+      "lines": 138,
+      "chars": 4801
+    },
+    {
+      "file": "digenes_death.txt",
+      "title": "Death of Digenes (folk ballads)",
+      "words": 394,
+      "lines": 52,
+      "chars": 2345
+    },
+    {
+      "file": "ptochoprodromika.txt",
+      "title": "Ptochoprodromika",
+      "words": 371,
+      "lines": 49,
+      "chars": 2364
+    },
+    {
+      "file": "chronikon_tou_moreos.txt",
+      "title": "chronikon_tou_moreos.txt",
+      "words": 73348,
+      "lines": 9236,
+      "chars": 444083
+    },
+    {
+      "file": "poulologos.txt",
+      "title": "Poulologos (Bird Parliament)",
+      "words": 5117,
+      "lines": 654,
+      "chars": 31792
+    },
+    {
+      "file": "gadarou_lykou_aloupous.txt",
+      "title": "Tale of the Donkey, Wolf, and Fox",
+      "words": 4422,
+      "lines": 544,
+      "chars": 26085
+    },
+    {
+      "file": "paidiophrastos.txt",
+      "title": "Paidiophrastos Diegesis (Tale of the Quadrupeds)",
+      "words": 8197,
+      "lines": 1086,
+      "chars": 50511
+    },
+    {
+      "file": "porikologos.txt",
+      "title": "Porikologos (Fruit Parliament, two versions)",
+      "words": 1447,
+      "lines": 43,
+      "chars": 9796
+    },
+    {
+      "file": "peri_gerontos.txt",
+      "title": "Peri Gerontos (About the Old Man Marrying a Girl)",
+      "words": 1680,
+      "lines": 202,
+      "chars": 9935
+    },
+    {
+      "file": "apokopos.txt",
+      "title": "Apokopos",
+      "words": 4141,
+      "lines": 491,
+      "chars": 24538
+    },
+    {
+      "file": "erotokritos.txt",
+      "title": "Erotokritos",
+      "words": 85872,
+      "lines": 10388,
+      "chars": 506728
+    }
+  ],
+  "total_words": 185792,
+  "total_chars": 1112978,
+  "total_lines": 22883,
+  "vocabulary_size": 26222,
+  "token_count": 185787,
+  "top_500": [
+    {
+      "word": "και",
+      "count": 5669
+    },
+    {
+      "word": "να",
+      "count": 5590
+    },
+    {
+      "word": "το",
+      "count": 4659
+    },
+    {
+      "word": "του",
+      "count": 4534
+    },
+    {
+      "word": "κι",
+      "count": 3330
+    },
+    {
+      "word": "τον",
+      "count": 2926
+    },
+    {
+      "word": "ο",
+      "count": 2691
+    },
+    {
+      "word": "την",
+      "count": 2593
+    },
+    {
+      "word": "τα",
+      "count": 2437
+    },
+    {
+      "word": "εις",
+      "count": 2210
+    },
+    {
+      "word": "κ",
+      "count": 2075
+    },
+    {
+      "word": "καὶ",
+      "count": 1977
+    },
+    {
+      "word": "με",
+      "count": 1703
+    },
+    {
+      "word": "κ᾿",
+      "count": 1483
+    },
+    {
+      "word": "η",
+      "count": 1466
+    },
+    {
+      "word": "τους",
+      "count": 1433
+    },
+    {
+      "word": "μου",
+      "count": 1251
+    },
+    {
+      "word": "οι",
+      "count": 1207
+    },
+    {
+      "word": "όπου",
+      "count": 1141
+    },
+    {
+      "word": "της",
+      "count": 1021
+    },
+    {
+      "word": "δεν",
+      "count": 945
+    },
+    {
+      "word": "σου",
+      "count": 878
+    },
+    {
+      "word": "γαρ",
+      "count": 840
+    },
+    {
+      "word": "από",
+      "count": 777
+    },
+    {
+      "word": "τση",
+      "count": 765
+    },
+    {
+      "word": "τη",
+      "count": 747
+    },
+    {
+      "word": "νὰ",
+      "count": 731
+    },
+    {
+      "word": "ως",
+      "count": 727
+    },
+    {
+      "word": "που",
+      "count": 689
+    },
+    {
+      "word": "σε",
+      "count": 680
+    },
+    {
+      "word": "τὸ",
+      "count": 629
+    },
+    {
+      "word": "τὴν",
+      "count": 526
+    },
+    {
+      "word": "στην",
+      "count": 501
+    },
+    {
+      "word": "σ",
+      "count": 487
+    },
+    {
+      "word": "στο",
+      "count": 478
+    },
+    {
+      "word": "οπού",
+      "count": 475
+    },
+    {
+      "word": "τ",
+      "count": 474
+    },
+    {
+      "word": "αν",
+      "count": 459
+    },
+    {
+      "word": "τὰ",
+      "count": 444
+    },
+    {
+      "word": "διά",
+      "count": 440
+    },
+    {
+      "word": "εκεί",
+      "count": 429
+    },
+    {
+      "word": "πώς",
+      "count": 425
+    },
+    {
+      "word": "δε",
+      "count": 419
+    },
+    {
+      "word": "ήτον",
+      "count": 417
+    },
+    {
+      "word": "των",
+      "count": 400
+    },
+    {
+      "word": "μ",
+      "count": 397
+    },
+    {
+      "word": "λέγει",
+      "count": 390
+    },
+    {
+      "word": "για",
+      "count": 387
+    },
+    {
+      "word": "πως",
+      "count": 381
+    },
+    {
+      "word": "μας",
+      "count": 375
+    },
+    {
+      "word": "μα",
+      "count": 371
+    },
+    {
+      "word": "στον",
+      "count": 366
+    },
+    {
+      "word": "τὸν",
+      "count": 353
+    },
+    {
+      "word": "εἰς",
+      "count": 353
+    },
+    {
+      "word": "είναι",
+      "count": 344
+    },
+    {
+      "word": "πολλά",
+      "count": 338
+    },
+    {
+      "word": "εκείνος",
+      "count": 335
+    },
+    {
+      "word": "ὁ",
+      "count": 320
+    },
+    {
+      "word": "μετά",
+      "count": 314
+    },
+    {
+      "word": "ότι",
+      "count": 313
+    },
+    {
+      "word": "μη",
+      "count": 306
+    },
+    {
+      "word": "ας",
+      "count": 296
+    },
+    {
+      "word": "σαν",
+      "count": 290
+    },
+    {
+      "word": "πρίγκιπας",
+      "count": 285
+    },
+    {
+      "word": "ν",
+      "count": 285
+    },
+    {
+      "word": "μισίρ",
+      "count": 271
+    },
+    {
+      "word": "τσ",
+      "count": 269
+    },
+    {
+      "word": "τως",
+      "count": 266
+    },
+    {
+      "word": "στα",
+      "count": 265
+    },
+    {
+      "word": "όλοι",
+      "count": 257
+    },
+    {
+      "word": "εκείνον",
+      "count": 253
+    },
+    {
+      "word": "ωσάν",
+      "count": 253
+    },
+    {
+      "word": "έχει",
+      "count": 247
+    },
+    {
+      "word": "ποτέ",
+      "count": 239
+    },
+    {
+      "word": "στη",
+      "count": 236
+    },
+    {
+      "word": "φουσσάτα",
+      "count": 232
+    },
+    {
+      "word": "αφότου",
+      "count": 230
+    },
+    {
+      "word": "σας",
+      "count": 229
+    },
+    {
+      "word": "προς",
+      "count": 227
+    },
+    {
+      "word": "τες",
+      "count": 227
+    },
+    {
+      "word": "εκ",
+      "count": 226
+    },
+    {
+      "word": "μετ᾿",
+      "count": 223
+    },
+    {
+      "word": "πάντα",
+      "count": 222
+    },
+    {
+      "word": "είχεν",
+      "count": 220
+    },
+    {
+      "word": "τόπον",
+      "count": 213
+    },
+    {
+      "word": "ἡ",
+      "count": 210
+    },
+    {
+      "word": "γιατί",
+      "count": 208
+    },
+    {
+      "word": "ένι",
+      "count": 208
+    },
+    {
+      "word": "ποιητης",
+      "count": 198
+    },
+    {
+      "word": "τσι",
+      "count": 198
+    },
+    {
+      "word": "τοῦ",
+      "count": 197
+    },
+    {
+      "word": "εγώ",
+      "count": 197
+    },
+    {
+      "word": "ουδέν",
+      "count": 191
+    },
+    {
+      "word": "μην",
+      "count": 189
+    },
+    {
+      "word": "πλιό",
+      "count": 189
+    },
+    {
+      "word": "απ",
+      "count": 188
+    },
+    {
+      "word": "μεγάλη",
+      "count": 187
+    },
+    {
+      "word": "ήσαν",
+      "count": 186
+    },
+    {
+      "word": "όλα",
+      "count": 185
+    },
+    {
+      "word": "τον-ε",
+      "count": 184
+    },
+    {
+      "word": "μὲ",
+      "count": 183
+    },
+    {
+      "word": "θέλει",
+      "count": 183
+    },
+    {
+      "word": "ρήγας",
+      "count": 183
+    },
+    {
+      "word": "ενταύτα",
+      "count": 179
+    },
+    {
+      "word": "είν",
+      "count": 179
+    },
+    {
+      "word": "είχε",
+      "count": 174
+    },
+    {
+      "word": "πρίγκιπα",
+      "count": 172
+    },
+    {
+      "word": "λέγω",
+      "count": 169
+    },
+    {
+      "word": "ώρα",
+      "count": 169
+    },
+    {
+      "word": "εκείσε",
+      "count": 165
+    },
+    {
+      "word": "πλιά",
+      "count": 165
+    },
+    {
+      "word": "τούτο",
+      "count": 163
+    },
+    {
+      "word": "έχουν",
+      "count": 163
+    },
+    {
+      "word": "εγίνη",
+      "count": 163
+    },
+    {
+      "word": "δυό",
+      "count": 161
+    },
+    {
+      "word": "άλλο",
+      "count": 160
+    },
+    {
+      "word": "θέ",
+      "count": 159
+    },
+    {
+      "word": "βουλήν",
+      "count": 158
+    },
+    {
+      "word": "ουδέ",
+      "count": 157
+    },
+    {
+      "word": "εκείνη",
+      "count": 157
+    },
+    {
+      "word": "μιά",
+      "count": 156
+    },
+    {
+      "word": "αφέντης",
+      "count": 154
+    },
+    {
+      "word": "θέλω",
+      "count": 152
+    },
+    {
+      "word": "ό,τι",
+      "count": 152
+    },
+    {
+      "word": "αφέντη",
+      "count": 151
+    },
+    {
+      "word": "ίντα",
+      "count": 151
+    },
+    {
+      "word": "μέσα",
+      "count": 147
+    },
+    {
+      "word": "μορέως",
+      "count": 146
+    },
+    {
+      "word": "οἱ",
+      "count": 145
+    },
+    {
+      "word": "εδώ",
+      "count": 145
+    },
+    {
+      "word": "απάνω",
+      "count": 145
+    },
+    {
+      "word": "ούτως",
+      "count": 143
+    },
+    {
+      "word": "εκείνοι",
+      "count": 142
+    },
+    {
+      "word": "ουκ",
+      "count": 142
+    },
+    {
+      "word": "κύρης",
+      "count": 140
+    },
+    {
+      "word": "σα",
+      "count": 140
+    },
+    {
+      "word": "όσον",
+      "count": 139
+    },
+    {
+      "word": "ένα",
+      "count": 137
+    },
+    {
+      "word": "έχω",
+      "count": 136
+    },
+    {
+      "word": "κάστρον",
+      "count": 136
+    },
+    {
+      "word": "καλά",
+      "count": 135
+    },
+    {
+      "word": "δίχως",
+      "count": 135
+    },
+    {
+      "word": "ρωτόκριτος",
+      "count": 135
+    },
+    {
+      "word": "δύο",
+      "count": 134
+    },
+    {
+      "word": "βασιλέως",
+      "count": 131
+    },
+    {
+      "word": "μεγάλην",
+      "count": 131
+    },
+    {
+      "word": "εν",
+      "count": 129
+    },
+    {
+      "word": "κάνει",
+      "count": 126
+    },
+    {
+      "word": "έχη",
+      "count": 124
+    },
+    {
+      "word": "παρά",
+      "count": 124
+    },
+    {
+      "word": "ὡς",
+      "count": 123
+    },
+    {
+      "word": "απ᾿",
+      "count": 123
+    },
+    {
+      "word": "τούτω",
+      "count": 122
+    },
+    {
+      "word": "πάλι",
+      "count": 120
+    },
+    {
+      "word": "όλους",
+      "count": 116
+    },
+    {
+      "word": "άρματα",
+      "count": 115
+    },
+    {
+      "word": "λαόν",
+      "count": 114
+    },
+    {
+      "word": "ντε",
+      "count": 114
+    },
+    {
+      "word": "καιρόν",
+      "count": 114
+    },
+    {
+      "word": "μορέαν",
+      "count": 114
+    },
+    {
+      "word": "εσύ",
+      "count": 113
+    },
+    {
+      "word": "όντε",
+      "count": 113
+    },
+    {
+      "word": "ετότε",
+      "count": 112
+    },
+    {
+      "word": "μάτια",
+      "count": 112
+    },
+    {
+      "word": "καρδιά",
+      "count": 109
+    },
+    {
+      "word": "τι",
+      "count": 108
+    },
+    {
+      "word": "δει",
+      "count": 108
+    },
+    {
+      "word": "τοὺς",
+      "count": 107
+    },
+    {
+      "word": "έτσι",
+      "count": 106
+    },
+    {
+      "word": "δὲ",
+      "count": 105
+    },
+    {
+      "word": "φράγκοι",
+      "count": 105
+    },
+    {
+      "word": "εκείνο",
+      "count": 105
+    },
+    {
+      "word": "ρήγα",
+      "count": 104
+    },
+    {
+      "word": "την-ε",
+      "count": 103
+    },
+    {
+      "word": "λόγια",
+      "count": 102
+    },
+    {
+      "word": "ομοίως",
+      "count": 102
+    },
+    {
+      "word": "λοιπόν",
+      "count": 102
+    },
+    {
+      "word": "αρετή",
+      "count": 101
+    },
+    {
+      "word": "μέγας",
+      "count": 100
+    },
+    {
+      "word": "εδά",
+      "count": 100
+    },
+    {
+      "word": "κʼ",
+      "count": 100
+    },
+    {
+      "word": "νένα",
+      "count": 100
+    },
+    {
+      "word": "ήλθεν",
+      "count": 99
+    },
+    {
+      "word": "άλλη",
+      "count": 99
+    },
+    {
+      "word": "χέρα",
+      "count": 99
+    },
+    {
+      "word": "εκείνα",
+      "count": 98
+    },
+    {
+      "word": "α",
+      "count": 98
+    },
+    {
+      "word": "άλλοι",
+      "count": 95
+    },
+    {
+      "word": "αυτόν",
+      "count": 94
+    },
+    {
+      "word": "σὲ",
+      "count": 93
+    },
+    {
+      "word": "διατί",
+      "count": 93
+    },
+    {
+      "word": "πόλεμον",
+      "count": 93
+    },
+    {
+      "word": "τότε",
+      "count": 92
+    },
+    {
+      "word": "ἀπὸ",
+      "count": 92
+    },
+    {
+      "word": "τά",
+      "count": 92
+    },
+    {
+      "word": "τε",
+      "count": 91
+    },
+    {
+      "word": "φρόνιμος",
+      "count": 91
+    },
+    {
+      "word": "ν᾿",
+      "count": 90
+    },
+    {
+      "word": "ρηγός",
+      "count": 90
+    },
+    {
+      "word": "ʼς",
+      "count": 90
+    },
+    {
+      "word": "πού",
+      "count": 89
+    },
+    {
+      "word": "αύτον",
+      "count": 89
+    },
+    {
+      "word": "έχεις",
+      "count": 89
+    },
+    {
+      "word": "αρετούσα",
+      "count": 89
+    },
+    {
+      "word": "χώρα",
+      "count": 88
+    },
+    {
+      "word": "μόνον",
+      "count": 88
+    },
+    {
+      "word": "ταύτα",
+      "count": 87
+    },
+    {
+      "word": "αυτός",
+      "count": 87
+    },
+    {
+      "word": "τό",
+      "count": 87
+    },
+    {
+      "word": "τῆς",
+      "count": 86
+    },
+    {
+      "word": "έποικεν",
+      "count": 86
+    },
+    {
+      "word": "δώσει",
+      "count": 86
+    },
+    {
+      "word": "ου",
+      "count": 85
+    },
+    {
+      "word": "πάθη",
+      "count": 85
+    },
+    {
+      "word": "μπορεί",
+      "count": 85
+    },
+    {
+      "word": "ήτονε",
+      "count": 84
+    },
+    {
+      "word": "είς",
+      "count": 84
+    },
+    {
+      "word": "όλον",
+      "count": 84
+    },
+    {
+      "word": "αλλά",
+      "count": 84
+    },
+    {
+      "word": "κείνη",
+      "count": 84
+    },
+    {
+      "word": "κατέχει",
+      "count": 84
+    },
+    {
+      "word": "είχαν",
+      "count": 83
+    },
+    {
+      "word": "ομπρός",
+      "count": 83
+    },
+    {
+      "word": "ακούσει",
+      "count": 83
+    },
+    {
+      "word": "πράμα",
+      "count": 83
+    },
+    {
+      "word": "ἂν",
+      "count": 82
+    },
+    {
+      "word": "ο-για",
+      "count": 81
+    },
+    {
+      "word": "έτοια",
+      "count": 81
+    },
+    {
+      "word": "ρήγαν",
+      "count": 80
+    },
+    {
+      "word": "ώρισεν",
+      "count": 80
+    },
+    {
+      "word": "λόγου",
+      "count": 80
+    },
+    {
+      "word": "θωρώ",
+      "count": 80
+    },
+    {
+      "word": "βασιλέας",
+      "count": 79
+    },
+    {
+      "word": "ετούτο",
+      "count": 79
+    },
+    {
+      "word": "γ-ή",
+      "count": 79
+    },
+    {
+      "word": "ήτο",
+      "count": 78
+    },
+    {
+      "word": "κορμί",
+      "count": 78
+    },
+    {
+      "word": "τούτα",
+      "count": 78
+    },
+    {
+      "word": "πει",
+      "count": 78
+    },
+    {
+      "word": "πῶς",
+      "count": 77
+    },
+    {
+      "word": "τότες",
+      "count": 77
+    },
+    {
+      "word": "λογισμόν",
+      "count": 77
+    },
+    {
+      "word": "καρδιάν",
+      "count": 77
+    },
+    {
+      "word": "γυρεύγει",
+      "count": 77
+    },
+    {
+      "word": "αυτούς",
+      "count": 76
+    },
+    {
+      "word": "ευθέως",
+      "count": 76
+    },
+    {
+      "word": "εκείνην",
+      "count": 76
+    },
+    {
+      "word": "άλλος",
+      "count": 76
+    },
+    {
+      "word": "μεγάλως",
+      "count": 75
+    },
+    {
+      "word": "πάλε",
+      "count": 75
+    },
+    {
+      "word": "σπαθί",
+      "count": 75
+    },
+    {
+      "word": "όσοι",
+      "count": 75
+    },
+    {
+      "word": "᾿ς",
+      "count": 75
+    },
+    {
+      "word": "άρχοντες",
+      "count": 75
+    },
+    {
+      "word": "κάθε",
+      "count": 75
+    },
+    {
+      "word": "καθώς",
+      "count": 74
+    },
+    {
+      "word": "επεί",
+      "count": 74
+    },
+    {
+      "word": "άλλον",
+      "count": 74
+    },
+    {
+      "word": "καιρός",
+      "count": 74
+    },
+    {
+      "word": "είπεν",
+      "count": 73
+    },
+    {
+      "word": "αφέντην",
+      "count": 73
+    },
+    {
+      "word": "έναν",
+      "count": 73
+    },
+    {
+      "word": "αγάπη",
+      "count": 73
+    },
+    {
+      "word": "μάχην",
+      "count": 73
+    },
+    {
+      "word": "πρίγκιπος",
+      "count": 73
+    },
+    {
+      "word": "ορίζει",
+      "count": 72
+    },
+    {
+      "word": "του·",
+      "count": 72
+    },
+    {
+      "word": "στου",
+      "count": 72
+    },
+    {
+      "word": "ατός",
+      "count": 72
+    },
+    {
+      "word": "άλογα",
+      "count": 72
+    },
+    {
+      "word": "μεγάλο",
+      "count": 72
+    },
+    {
+      "word": "τῶν",
+      "count": 71
+    },
+    {
+      "word": "αφεντίαν",
+      "count": 71
+    },
+    {
+      "word": "άλλα",
+      "count": 71
+    },
+    {
+      "word": "φυλακήν",
+      "count": 71
+    },
+    {
+      "word": "δίδει",
+      "count": 71
+    },
+    {
+      "word": "λογής",
+      "count": 71
+    },
+    {
+      "word": "πάλιν",
+      "count": 70
+    },
+    {
+      "word": "τόπους",
+      "count": 70
+    },
+    {
+      "word": "κάστρη",
+      "count": 70
+    },
+    {
+      "word": "ολόρθα",
+      "count": 70
+    },
+    {
+      "word": "έχουσιν",
+      "count": 70
+    },
+    {
+      "word": "ποιός",
+      "count": 70
+    },
+    {
+      "word": "κοντάρι",
+      "count": 69
+    },
+    {
+      "word": "ημέρα",
+      "count": 69
+    },
+    {
+      "word": "λογισμός",
+      "count": 69
+    },
+    {
+      "word": "μάνα",
+      "count": 69
+    },
+    {
+      "word": "μες",
+      "count": 69
+    },
+    {
+      "word": "θωρεί",
+      "count": 69
+    },
+    {
+      "word": "πρὸς",
+      "count": 68
+    },
+    {
+      "word": "μέγαν",
+      "count": 68
+    },
+    {
+      "word": "πρέπει",
+      "count": 67
+    },
+    {
+      "word": "ωσαύτως",
+      "count": 67
+    },
+    {
+      "word": "βασιλέα",
+      "count": 67
+    },
+    {
+      "word": "ήλθαν",
+      "count": 66
+    },
+    {
+      "word": "ντζεφρές",
+      "count": 66
+    },
+    {
+      "word": "ρωμαίοι",
+      "count": 66
+    },
+    {
+      "word": "σήμερον",
+      "count": 66
+    },
+    {
+      "word": "κράζει",
+      "count": 65
+    },
+    {
+      "word": "ποιήση",
+      "count": 65
+    },
+    {
+      "word": "πάρει",
+      "count": 65
+    },
+    {
+      "word": "κιανείς",
+      "count": 65
+    },
+    {
+      "word": "οὐκ",
+      "count": 64
+    },
+    {
+      "word": "τρόπον",
+      "count": 64
+    },
+    {
+      "word": "εκράτει",
+      "count": 64
+    },
+    {
+      "word": "μιάν",
+      "count": 64
+    },
+    {
+      "word": "κάμει",
+      "count": 64
+    },
+    {
+      "word": "τὰς",
+      "count": 63
+    },
+    {
+      "word": "ποσώς",
+      "count": 63
+    },
+    {
+      "word": "εκείνου",
+      "count": 63
+    },
+    {
+      "word": "χαράν",
+      "count": 63
+    },
+    {
+      "word": "άλλους",
+      "count": 63
+    },
+    {
+      "word": "λαλώ",
+      "count": 63
+    },
+    {
+      "word": "ώραν",
+      "count": 63
+    },
+    {
+      "word": "βάνει",
+      "count": 63
+    },
+    {
+      "word": "στ",
+      "count": 63
+    },
+    {
+      "word": "ουδ",
+      "count": 63
+    },
+    {
+      "word": "πούρι",
+      "count": 63
+    },
+    {
+      "word": "παλάτι",
+      "count": 62
+    },
+    {
+      "word": "θυγατέρα",
+      "count": 62
+    },
+    {
+      "word": "τʼ",
+      "count": 62
+    },
+    {
+      "word": "μὴ",
+      "count": 61
+    },
+    {
+      "word": "τόσα",
+      "count": 61
+    },
+    {
+      "word": "οπίσω",
+      "count": 61
+    },
+    {
+      "word": "είχασιν",
+      "count": 61
+    },
+    {
+      "word": "μακρά",
+      "count": 61
+    },
+    {
+      "word": "κακό",
+      "count": 61
+    },
+    {
+      "word": "ζιμιό",
+      "count": 61
+    },
+    {
+      "word": "μέρη",
+      "count": 60
+    },
+    {
+      "word": "δὲν",
+      "count": 60
+    },
+    {
+      "word": "άνθρωπος",
+      "count": 60
+    },
+    {
+      "word": "πράγμα",
+      "count": 60
+    },
+    {
+      "word": "αφών",
+      "count": 60
+    },
+    {
+      "word": "τίποτε",
+      "count": 60
+    },
+    {
+      "word": "διατό",
+      "count": 60
+    },
+    {
+      "word": "τρεις",
+      "count": 60
+    },
+    {
+      "word": "γνώση",
+      "count": 60
+    },
+    {
+      "word": "πάγει",
+      "count": 60
+    },
+    {
+      "word": "θέλεις",
+      "count": 59
+    },
+    {
+      "word": "όταν",
+      "count": 59
+    },
+    {
+      "word": "φράγκους",
+      "count": 59
+    },
+    {
+      "word": "τιμήν",
+      "count": 59
+    },
+    {
+      "word": "μαντάτα",
+      "count": 59
+    },
+    {
+      "word": "είσαι",
+      "count": 59
+    },
+    {
+      "word": "κόσμον",
+      "count": 59
+    },
+    {
+      "word": "απέσω",
+      "count": 58
+    },
+    {
+      "word": "χάρη",
+      "count": 58
+    },
+    {
+      "word": "ακόμη",
+      "count": 58
+    },
+    {
+      "word": "μηδέ",
+      "count": 58
+    },
+    {
+      "word": "ρωμαίων",
+      "count": 57
+    },
+    {
+      "word": "ἐκ",
+      "count": 56
+    },
+    {
+      "word": "πάντες",
+      "count": 56
+    },
+    {
+      "word": "χώραν",
+      "count": 56
+    },
+    {
+      "word": "μάχη",
+      "count": 56
+    },
+    {
+      "word": "φορές",
+      "count": 56
+    },
+    {
+      "word": "χαρά",
+      "count": 56
+    },
+    {
+      "word": "ώρες",
+      "count": 56
+    },
+    {
+      "word": "βασιλιός",
+      "count": 56
+    },
+    {
+      "word": "λαός",
+      "count": 55
+    },
+    {
+      "word": "κρατεί",
+      "count": 55
+    },
+    {
+      "word": "όλο",
+      "count": 55
+    },
+    {
+      "word": "παιδί",
+      "count": 55
+    },
+    {
+      "word": "ώς",
+      "count": 55
+    },
+    {
+      "word": "μιλεί",
+      "count": 55
+    },
+    {
+      "word": "ἐγὼ",
+      "count": 54
+    },
+    {
+      "word": "δίκαιον",
+      "count": 54
+    },
+    {
+      "word": "τί",
+      "count": 54
+    },
+    {
+      "word": "ήκουσεν",
+      "count": 54
+    },
+    {
+      "word": "είδεν",
+      "count": 54
+    },
+    {
+      "word": "εφάνη",
+      "count": 54
+    },
+    {
+      "word": "στέκει",
+      "count": 53
+    },
+    {
+      "word": "λόγους",
+      "count": 53
+    },
+    {
+      "word": "βουλή",
+      "count": 53
+    },
+    {
+      "word": "μεγάλοι",
+      "count": 53
+    },
+    {
+      "word": "όχι",
+      "count": 53
+    },
+    {
+      "word": "κυρού",
+      "count": 53
+    },
+    {
+      "word": "κάλλη",
+      "count": 52
+    },
+    {
+      "word": "βασιλεύς",
+      "count": 52
+    },
+    {
+      "word": "νου",
+      "count": 52
+    },
+    {
+      "word": "πά",
+      "count": 52
+    },
+    {
+      "word": "κόρη",
+      "count": 51
+    },
+    {
+      "word": "κεφαλάδες",
+      "count": 51
+    },
+    {
+      "word": "θάνατον",
+      "count": 51
+    },
+    {
+      "word": "ήλθασιν",
+      "count": 51
+    },
+    {
+      "word": "έδωκεν",
+      "count": 51
+    },
+    {
+      "word": "μαντάτο",
+      "count": 51
+    },
+    {
+      "word": "έλθη",
+      "count": 51
+    },
+    {
+      "word": "ετούτα",
+      "count": 51
+    },
+    {
+      "word": "στόμα",
+      "count": 51
+    },
+    {
+      "word": "τίς",
+      "count": 51
+    },
+    {
+      "word": "πολλή",
+      "count": 51
+    },
+    {
+      "word": "λογιάζει",
+      "count": 51
+    },
+    {
+      "word": "έτοιας",
+      "count": 51
+    },
+    {
+      "word": "πολλὰ",
+      "count": 50
+    },
+    {
+      "word": "δεσπότης",
+      "count": 50
+    },
+    {
+      "word": "βρίσκεται",
+      "count": 50
+    },
+    {
+      "word": "ὁποῦ",
+      "count": 50
+    },
+    {
+      "word": "γλήγορα",
+      "count": 50
+    },
+    {
+      "word": "ομάδι",
+      "count": 50
+    },
+    {
+      "word": "συχνιά",
+      "count": 50
+    },
+    {
+      "word": "σήμερο",
+      "count": 50
+    },
+    {
+      "word": "ωσά",
+      "count": 50
+    },
+    {
+      "word": "πόλιν",
+      "count": 49
+    },
+    {
+      "word": "ένας",
+      "count": 49
+    },
+    {
+      "word": "απαύτου",
+      "count": 49
+    },
+    {
+      "word": "λέγουν",
+      "count": 49
+    },
+    {
+      "word": "κερά",
+      "count": 49
+    },
+    {
+      "word": "αφήνει",
+      "count": 49
+    },
+    {
+      "word": "πεθυμιά",
+      "count": 49
+    },
+    {
+      "word": "πολύ",
+      "count": 48
+    },
+    {
+      "word": "κόντος",
+      "count": 48
+    },
+    {
+      "word": "ντζεφρέ",
+      "count": 48
+    },
+    {
+      "word": "συμφωνίες",
+      "count": 48
+    },
+    {
+      "word": "ρωμαίους",
+      "count": 48
+    },
+    {
+      "word": "κύρην",
+      "count": 48
+    },
+    {
+      "word": "τόση",
+      "count": 48
+    },
+    {
+      "word": "ρώκριτος",
+      "count": 48
+    },
+    {
+      "word": "γὰρ",
+      "count": 47
+    },
+    {
+      "word": "θεός",
+      "count": 47
+    },
+    {
+      "word": "ήθελε",
+      "count": 47
+    },
+    {
+      "word": "δύναμιν",
+      "count": 47
+    },
+    {
+      "word": "αγάπην",
+      "count": 47
+    },
+    {
+      "word": "κεφαλή",
+      "count": 47
+    },
+    {
+      "word": "είμαι",
+      "count": 47
+    },
+    {
+      "word": "καρύταινας",
+      "count": 47
+    },
+    {
+      "word": "κύρη",
+      "count": 47
+    },
+    {
+      "word": "κείνο",
+      "count": 47
+    },
+    {
+      "word": "μιλήσει",
+      "count": 47
+    },
+    {
+      "word": "δώση",
+      "count": 46
+    },
+    {
+      "word": "ὅτι",
+      "count": 46
+    },
+    {
+      "word": "μετὰ",
+      "count": 46
+    },
+    {
+      "word": "πιάνει",
+      "count": 46
+    },
+    {
+      "word": "κόσμου",
+      "count": 46
+    },
+    {
+      "word": "τόσον",
+      "count": 46
+    },
+    {
+      "word": "ακούσων",
+      "count": 46
+    },
+    {
+      "word": "είπαν",
+      "count": 46
+    },
+    {
+      "word": "τόπου",
+      "count": 46
+    },
+    {
+      "word": "πράματα",
+      "count": 46
+    },
+    {
+      "word": "έτοιο",
+      "count": 46
+    },
+    {
+      "word": "απέκει",
+      "count": 45
+    },
+    {
+      "word": "αρέσει",
+      "count": 45
+    },
+    {
+      "word": "βασιλέαν",
+      "count": 45
+    },
+    {
+      "word": "εδιάβη",
+      "count": 45
+    },
+    {
+      "word": "αυτού",
+      "count": 45
+    },
+    {
+      "word": "μόνο",
+      "count": 45
+    },
+    {
+      "word": "γρικά",
+      "count": 45
+    },
+    {
+      "word": "φροσύνη",
+      "count": 45
+    },
+    {
+      "word": "να'ναι",
+      "count": 45
+    },
+    {
+      "word": "κατά",
+      "count": 44
+    },
+    {
+      "word": "πρώτα",
+      "count": 44
+    },
+    {
+      "word": "ώρισε",
+      "count": 44
+    },
+    {
+      "word": "κρίνει",
+      "count": 44
+    },
+    {
+      "word": "ώστε",
+      "count": 44
+    },
+    {
+      "word": "κατέχω",
+      "count": 44
+    },
+    {
+      "word": "αρετουσα",
+      "count": 44
+    },
+    {
+      "word": "φόβον",
+      "count": 43
+    },
+    {
+      "word": "αύτους",
+      "count": 43
+    },
+    {
+      "word": "όσα",
+      "count": 43
+    },
+    {
+      "word": "φουσσάτου",
+      "count": 43
+    },
+    {
+      "word": "ή",
+      "count": 43
+    },
+    {
+      "word": "έλεγαν",
+      "count": 43
+    },
+    {
+      "word": "ήθελεν",
+      "count": 43
+    },
+    {
+      "word": "απήρεν",
+      "count": 43
+    },
+    {
+      "word": "χείλη",
+      "count": 43
+    },
+    {
+      "word": "νύκτα",
+      "count": 43
+    },
+    {
+      "word": "θες",
+      "count": 43
+    },
+    {
+      "word": "αφήσει",
+      "count": 43
+    },
+    {
+      "word": "καβαλλάροι",
+      "count": 42
+    },
+    {
+      "word": "όρκον",
+      "count": 42
+    },
+    {
+      "word": "έως",
+      "count": 42
+    },
+    {
+      "word": "κεφαλήν",
+      "count": 42
+    },
+    {
+      "word": "άνθρωπον",
+      "count": 42
+    },
+    {
+      "word": "αφηγούμαι",
+      "count": 42
+    },
+    {
+      "word": "πράξιν",
+      "count": 42
+    },
+    {
+      "word": "ενομού",
+      "count": 42
+    },
+    {
+      "word": "εκείνους",
+      "count": 42
+    },
+    {
+      "word": "επάρη",
+      "count": 42
+    },
+    {
+      "word": "είπασιν",
+      "count": 42
+    },
+    {
+      "word": "τέλος",
+      "count": 42
+    },
+    {
+      "word": "σὺ",
+      "count": 42
+    },
+    {
+      "word": "νους",
+      "count": 42
+    },
+    {
+      "word": "πω",
+      "count": 42
+    },
+    {
+      "word": "καιρό",
+      "count": 42
+    },
+    {
+      "word": "ποῦ",
+      "count": 41
+    },
+    {
+      "word": "σὰν",
+      "count": 41
+    },
+    {
+      "word": "αφορμήν",
+      "count": 41
+    },
+    {
+      "word": "τους·",
+      "count": 41
+    },
+    {
+      "word": "λέγουσιν",
+      "count": 41
+    },
+    {
+      "word": "μέρα",
+      "count": 41
+    },
+    {
+      "word": "τού",
+      "count": 41
+    },
+    {
+      "word": "αίμα",
+      "count": 41
+    },
+    {
+      "word": "βασιλιού",
+      "count": 41
+    },
+    {
+      "word": "φωτιά",
+      "count": 41
+    },
+    {
+      "word": "διὰ",
+      "count": 40
+    },
+    {
+      "word": "χώρες",
+      "count": 40
+    },
+    {
+      "word": "όλην",
+      "count": 40
+    },
+    {
+      "word": "αρετής",
+      "count": 40
+    },
+    {
+      "word": "καλό",
+      "count": 40
+    },
+    {
+      "word": "τούτον",
+      "count": 40
+    },
+    {
+      "word": "όντεν",
+      "count": 40
+    }
+  ]
+}
