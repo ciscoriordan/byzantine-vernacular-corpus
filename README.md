@@ -165,11 +165,15 @@ For NLP purposes, normalizing to monotonic before processing is recommended.
 
 ## Sources and licensing
 
+### Texts
+
 All texts in this corpus are public domain (medieval and early modern works whose copyright has long expired). Wikisource contributions are additionally available under CC BY-SA 3.0. The Chronicle of Moreas text is from kastra.eu, based on the edition by Petros Kalonaros (Dimitrakos, 1940).
 
 Full source URLs and per-text metadata are in `texts/manifest.json`.
 
-The scripts and compilation in this repository are released under the [MIT License](LICENSE). The individual source texts retain their own public domain / CC BY-SA status.
+### License
+
+The scripts and compilation metadata in this repository are released under the [MIT License](LICENSE). Per-text licenses are listed in the [corpus contents](#corpus-contents) table above.
 
 ## Related projects and corpora
 
