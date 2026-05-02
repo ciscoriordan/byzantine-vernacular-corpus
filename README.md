@@ -112,7 +112,7 @@ This produces:
 - `texts/corpus_stats.json` - word counts per text and top-500 frequency list
 - `texts/frequencies.tsv` - full word frequency list (with `--freq`)
 
-### Export frequency JSON for dilemma
+### Export frequency JSON for Dilemma
 
 ```bash
 # Write byz_vern_freq.json to ../dilemma/data/
@@ -122,7 +122,7 @@ python scripts/export_freq_json.py --dilemma
 python scripts/export_freq_json.py -o /path/to/output.json
 ```
 
-The output format is compatible with [dilemma](https://github.com/ciscoriordan/dilemma)'s `rank_forms.py` frequency loader.
+The output format is compatible with [Dilemma](https://github.com/ciscoriordan/dilemma)'s `rank_forms.py` frequency loader.
 
 ### Frequency output format
 
@@ -150,7 +150,7 @@ scripts/            Fetch and build scripts
   fetch_wikisource.py        Download texts from el.wikisource.org
   fetch_chronicle_moreas.py  Download Chronicle of Moreas from kastra.eu
   build_corpus.py            Combine texts into corpus with frequency analysis
-  export_freq_json.py        Export frequencies as JSON for dilemma
+  export_freq_json.py        Export frequencies as JSON for Dilemma
 ```
 
 ## Notes on orthography
@@ -173,8 +173,7 @@ The scripts and compilation in this repository are released under the [MIT Licen
 
 ## Related projects and corpora
 
-- [dilemma](https://github.com/ciscoriordan/dilemma) - A Greek lemmatizer supporting Ancient, Byzantine, and Modern Greek. This corpus provides Byzantine vernacular frequency data for dilemma's `rank_forms.py` pipeline.
-- [lemma](https://github.com/ciscoriordan/lemma) - A Greek Kindle dictionary generator using dilemma for inflection data.
+- [Dilemma](https://github.com/ciscoriordan/dilemma) - A diachronic Greek lemmatizer covering Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). This corpus provides Byzantine vernacular frequency data for Dilemma's `rank_forms.py` pipeline.
 - [Patrologia Graeca corpus](https://zenodo.org/records/15780625) (Calfa/UCLouvain) - 6M tokens of literary/ecclesiastical Byzantine Greek (Church Fathers, PG071-PG158), OCR'd and lemmatized. Covers the formal, Atticizing register that this corpus does not. Together, the two corpora span both registers of Byzantine Greek: literary/ecclesiastical (PG) and vernacular/demotic (this corpus).
 - [GLAUx](https://github.com/alekkeersmaekers/glaux) - 17M tokens of Ancient Greek (Classical through late antique).
 - [Diorisis](https://figshare.com/articles/dataset/The_Diorisis_Ancient_Greek_Corpus/6187256) - 10M tokens, Homer through 5th century AD.
